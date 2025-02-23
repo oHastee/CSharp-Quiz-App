@@ -1,0 +1,28 @@
+# Ignore Visual Studio user-specific files
+*.user
+*.suo
+*.sln.cache
+*.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+
+# Ignore package files
+*.nupkg
+packages/
+
+# Ignore IDE-specific files
+.vscode/
+*.csproj.user
+
